@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T20:31:31.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UarNNCNoGf-E-Log1U2e" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T20:37:04.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oETD_PWcYueUSkWHcejQ" version="21.3.7" type="github">
   <diagram name="Page-1" id="JdBnrZLS_sai2Ay9737S">
     <mxGraphModel dx="1245" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,9 +115,6 @@
         <mxCell id="yZUwgCXandGBFA6V9dU8-35" value="CNN" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="986.5" y="373.64" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yZUwgCXandGBFA6V9dU8-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://endlessicons.com/wp-content/uploads/2013/04/save-icon.png;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="286.38" width="147.25" height="147.25" as="geometry" />
-        </mxCell>
         <mxCell id="yZUwgCXandGBFA6V9dU8-37" value="Model Building and Saving" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="884.75" y="427" width="160" height="30" as="geometry" />
         </mxCell>
@@ -158,10 +155,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yZUwgCXandGBFA6V9dU8-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="300" width="150" height="120" as="geometry" />
+          <mxGeometry x="1210" y="300" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yZUwgCXandGBFA6V9dU8-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="138.36" width="217.3" height="127.12" as="geometry" />
+          <mxGeometry x="1221" y="327.09000000000003" width="107.3" height="62.77" as="geometry" />
+        </mxCell>
+        <mxCell id="yZUwgCXandGBFA6V9dU8-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1328.3" y="333.77" width="130" height="50.92" as="geometry" />
+        </mxCell>
+        <mxCell id="yZUwgCXandGBFA6V9dU8-53" value="Model Deployment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZUwgCXandGBFA6V9dU8-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="361.5" as="sourcePoint" />
+            <mxPoint x="1530" y="362" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZUwgCXandGBFA6V9dU8-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="300" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yZUwgCXandGBFA6V9dU8-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/User_icon-cp.svg/1656px-User_icon-cp.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1568.44" y="320.8" width="63.12" height="78.41" as="geometry" />
+        </mxCell>
+        <mxCell id="yZUwgCXandGBFA6V9dU8-59" value="Customer" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="422" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
