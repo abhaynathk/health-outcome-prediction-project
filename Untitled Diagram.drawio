@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T20:39:16.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="voVpIb-59MbpYTG2OyKV" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T20:45:23.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NIEqSUqEK5HLAhaB_PCu" version="21.3.7" type="github">
   <diagram name="Page-1" id="JdBnrZLS_sai2Ay9737S">
-    <mxGraphModel dx="2490" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,6 +184,9 @@
         </mxCell>
         <mxCell id="yZUwgCXandGBFA6V9dU8-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;PIPE INVENTORY MANAGMENT SYSTEM&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="140" width="1080" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZUwgCXandGBFA6V9dU8-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2550/2550221.png;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="483.09" width="61.12" height="61.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
